@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+  <CodeSnippet Format="1.0.0">
+    <Header>
+      <Title>propvs</Title>
+      <Shortcut>propvs</Shortcut>
+      <Description>Fragmento de código para una propiedad que se almacena en el ViewState</Description>
+      <Author>René Pacios</Author>
+      <SnippetTypes>
+        <SnippetType>Expansion</SnippetType>
+      </SnippetTypes>
+    </Header>
+    <Snippet>
+      <Declarations>
+        <Literal>
+          <ID>type</ID>
+          <ToolTip>Tipo de propiedad</ToolTip>
+          <Default>int</Default>
+        </Literal>
+        <Literal>
+          <ID>property</ID>
+          <ToolTip>Nombre de propiedad</ToolTip>
+          <Default>MyProperty</Default>
+        </Literal>
+      </Declarations>
+      <Code Language="csharp">
+        <![CDATA[
+        /// <summary>
+        /// Mantiene los datos de $propperty$ en el ViewState
+        /// </summary>
+        public $type$ $property$
+        {
+          get { return ViewState["$property$"] as $type$;} 
+          set { ViewState["$property$"] = value; } 
+        }
+$end$]]>
+      </Code>
+    </Snippet>
+  </CodeSnippet>
+</CodeSnippets>
