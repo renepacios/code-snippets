@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CodeSnippets  xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+      <Title>bset</Title>
+      <Shortcut>bset</Shortcut>
+      <Description>Builder setter method</Description>
+      <Author>René Pacios</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+        <Literal>
+          <ID>type</ID>
+          <Default>int</Default>
+        </Literal>
+        <Literal>
+          <ID>name</ID>
+          <Default>field</Default>
+        </Literal>
+        <Literal default="true" Editable="false">
+          <ID>classname</ID>
+          <ToolTip>Class name</ToolTip>
+          <Function>ClassName()</Function>
+          <Default>ClassNamePlaceholder</Default>
+        </Literal>
+				<Literal>
+					<ID>method</ID>
+					<ToolTip>Method name</ToolTip>
+					<Default>Nombre</Default>
+				</Literal>
+				<Literal>
+					<ID>field</ID>
+					<ToolTip>Property to set</ToolTip>
+					<Default>string</Default>
+				</Literal>
+			</Declarations>
+      <Code Language="csharp" Format="CData">
+        <![CDATA[ 
+                  public $classname$  $method$($type$ $name$)
+                  {
+                      _entity.$method$ = $name$;
+                      return this;
+                  }
+                 
+                ]]>
+      </Code>
+    </Snippet>
+	</CodeSnippet>
+</CodeSnippets>
