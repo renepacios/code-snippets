@@ -1,0 +1,637 @@
+
+Conexiones activas
+
+  Proto  Direcci¢n local          Direcci¢n remota        Estado           PID
+  TCP    0.0.0.0:80             0.0.0.0:0              LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    0.0.0.0:88             0.0.0.0:0              LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    0.0.0.0:90             0.0.0.0:0              LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING       820
+  RpcSs
+ [Sistema]
+  TCP    0.0.0.0:443            0.0.0.0:0              LISTENING       7216
+ [wwahost.exe]
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    0.0.0.0:554            0.0.0.0:0              LISTENING       6732
+  WMPNetworkSvc
+ [Sistema]
+  TCP    0.0.0.0:888            0.0.0.0:0              LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    0.0.0.0:1025           0.0.0.0:0              LISTENING       552
+ [Sistema]
+  TCP    0.0.0.0:1026           0.0.0.0:0              LISTENING       884
+  EventLog
+ [Sistema]
+  TCP    0.0.0.0:1027           0.0.0.0:0              LISTENING       932
+  Schedule
+ [Sistema]
+  TCP    0.0.0.0:1028           0.0.0.0:0              LISTENING       680
+  Netlogon
+ [Sistema]
+  TCP    0.0.0.0:1051           0.0.0.0:0              LISTENING       680
+ [Sistema]
+  TCP    0.0.0.0:1055           0.0.0.0:0              LISTENING       1968
+  MSMQ
+ [Sistema]
+  TCP    0.0.0.0:1068           0.0.0.0:0              LISTENING       2200
+ [ORACLE.EXE]
+  TCP    0.0.0.0:1071           0.0.0.0:0              LISTENING       672
+ [Sistema]
+  TCP    0.0.0.0:1072           0.0.0.0:0              LISTENING       4208
+  PolicyAgent
+ [Sistema]
+  TCP    0.0.0.0:1396           0.0.0.0:0              LISTENING       5520
+ [devenv.exe]
+  TCP    0.0.0.0:1500           0.0.0.0:0              LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    0.0.0.0:1521           0.0.0.0:0              LISTENING       2232
+ [tnslsnr.exe]
+  TCP    0.0.0.0:1801           0.0.0.0:0              LISTENING       1968
+  MSMQ
+ [Sistema]
+  TCP    0.0.0.0:2039           0.0.0.0:0              LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    0.0.0.0:2103           0.0.0.0:0              LISTENING       1968
+  MSMQ
+ [Sistema]
+  TCP    0.0.0.0:2105           0.0.0.0:0              LISTENING       1968
+  MSMQ
+ [Sistema]
+  TCP    0.0.0.0:2107           0.0.0.0:0              LISTENING       1968
+  MSMQ
+ [Sistema]
+  TCP    0.0.0.0:2179           0.0.0.0:0              LISTENING       2800
+  vmms
+ [Sistema]
+  TCP    0.0.0.0:2869           0.0.0.0:0              LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    0.0.0.0:3389           0.0.0.0:0              LISTENING       1152
+  CryptSvc
+ [Sistema]
+  TCP    0.0.0.0:3690           0.0.0.0:0              LISTENING       2512
+ [Sistema]
+  TCP    0.0.0.0:5357           0.0.0.0:0              LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    0.0.0.0:6000           0.0.0.0:0              LISTENING       2568
+ [VisualSVNServer.exe]
+  TCP    0.0.0.0:6791           0.0.0.0:0              LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    0.0.0.0:7000           0.0.0.0:0              LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    0.0.0.0:8000           0.0.0.0:0              LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    0.0.0.0:8050           0.0.0.0:0              LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    0.0.0.0:8080           0.0.0.0:0              LISTENING       2232
+ [tnslsnr.exe]
+  TCP    0.0.0.0:9000           0.0.0.0:0              LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    0.0.0.0:9876           0.0.0.0:0              LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    0.0.0.0:10243          0.0.0.0:0              LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    0.0.0.0:15195          0.0.0.0:0              LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    0.0.0.0:19927          0.0.0.0:0              LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    0.0.0.0:34363          0.0.0.0:0              LISTENING       7216
+ [wwahost.exe]
+  TCP    0.0.0.0:44238          0.0.0.0:0              LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    0.0.0.0:55202          0.0.0.0:0              LISTENING       716
+  MSSQL$SQLEXPRESS
+ [Sistema]
+  TCP    0.0.0.0:58767          0.0.0.0:0              LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    0.0.0.0:58812          0.0.0.0:0              LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    127.0.0.1:1063         0.0.0.0:0              LISTENING       2232
+ [tnslsnr.exe]
+  TCP    127.0.0.1:1325         127.0.0.1:1326         ESTABLISHED     5660
+ [googledrivesync.exe]
+  TCP    127.0.0.1:1326         127.0.0.1:1325         ESTABLISHED     5660
+ [googledrivesync.exe]
+  TCP    127.0.0.1:1591         0.0.0.0:0              LISTENING       5520
+ [devenv.exe]
+  TCP    127.0.0.1:1592         0.0.0.0:0              LISTENING       3688
+ [Microsoft.Alm.Shared.Remoting.RemoteContainer.dll]
+  TCP    127.0.0.1:1592         127.0.0.1:2007         ESTABLISHED     3688
+ [Microsoft.Alm.Shared.Remoting.RemoteContainer.dll]
+  TCP    127.0.0.1:2007         127.0.0.1:1592         ESTABLISHED     5520
+ [devenv.exe]
+  TCP    127.0.0.1:3715         0.0.0.0:0              LISTENING       2300
+ [LPhal.exe]
+  TCP    127.0.0.1:5939         0.0.0.0:0              LISTENING       2544
+ [TeamViewer_Service.exe]
+  TCP    127.0.0.1:6789         0.0.0.0:0              LISTENING       1832
+ [DualServer.exe]
+  TCP    127.0.0.1:37483        0.0.0.0:0              LISTENING       5660
+ [googledrivesync.exe]
+  TCP    169.254.69.49:139      0.0.0.0:0              LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    172.17.0.44:139        0.0.0.0:0              LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    172.17.0.44:11787      192.168.1.100:5222     ESTABLISHED     412
+ [pidgin.exe]
+  TCP    172.17.0.44:11800      157.56.127.19:1863     ESTABLISHED     412
+ [pidgin.exe]
+  TCP    172.17.0.44:11816      157.56.124.54:443      ESTABLISHED     4980
+ [Sistema]
+  TCP    172.17.0.44:11818      0.0.0.0:0              LISTENING       4108
+  ALG
+ [Sistema]
+  TCP    172.17.0.44:11830      192.168.0.68:445       ESTABLISHED     4
+ No se puede obtener informaci¢n de propiedad
+  TCP    172.17.0.44:11943      192.168.1.50:1258      ESTABLISHED     5876
+ [Sistema]
+  TCP    172.17.0.44:11948      192.168.1.50:1258      ESTABLISHED     5876
+ [Sistema]
+  TCP    172.17.0.44:11949      192.168.1.50:1324      ESTABLISHED     5876
+ [Sistema]
+  TCP    172.17.0.44:12045      74.125.206.188:5228    ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:12944      178.60.128.49:80       CLOSE_WAIT      5876
+ [Sistema]
+  TCP    172.17.0.44:12951      65.52.103.94:80        ESTABLISHED     5876
+ [Sistema]
+  TCP    172.17.0.44:12953      168.63.52.52:80        ESTABLISHED     5876
+ [Sistema]
+  TCP    172.17.0.44:12954      168.63.52.52:80        ESTABLISHED     5876
+ [Sistema]
+  TCP    172.17.0.44:12955      168.62.43.5:80         ESTABLISHED     5876
+ [Sistema]
+  TCP    172.17.0.44:12956      137.117.193.142:80     ESTABLISHED     5876
+ [Sistema]
+  TCP    172.17.0.44:12957      173.194.45.12:80       ESTABLISHED     5876
+ [Sistema]
+  TCP    172.17.0.44:12958      174.129.147.224:80     ESTABLISHED     5876
+ [Sistema]
+  TCP    172.17.0.44:12959      212.170.101.22:80      ESTABLISHED     5876
+ [Sistema]
+  TCP    172.17.0.44:12960      173.194.41.202:80      ESTABLISHED     5876
+ [Sistema]
+  TCP    172.17.0.44:12961      206.72.118.44:80       ESTABLISHED     5876
+ [Sistema]
+  TCP    172.17.0.44:17236      157.56.52.48:40013     ESTABLISHED     7216
+ [wwahost.exe]
+  TCP    172.17.0.44:17238      91.190.216.56:12350    ESTABLISHED     7216
+ [wwahost.exe]
+  TCP    172.17.0.44:20265      192.168.0.55:1026      ESTABLISHED     5876
+ [Sistema]
+  TCP    172.17.0.44:21648      192.168.1.37:1433      ESTABLISHED     11188
+ [Ssms.exe]
+  TCP    172.17.0.44:24134      178.60.128.27:443      ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24135      178.60.128.27:443      ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24136      173.194.78.125:443     ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24147      173.194.78.125:5222    ESTABLISHED     5660
+ [googledrivesync.exe]
+  TCP    172.17.0.44:24191      65.52.233.45:80        ESTABLISHED     4980
+ [Sistema]
+  TCP    172.17.0.44:24192      65.52.233.45:80        ESTABLISHED     4980
+ [Sistema]
+  TCP    172.17.0.44:24193      178.60.128.152:80      ESTABLISHED     4980
+ [Sistema]
+  TCP    172.17.0.44:24194      178.60.128.152:80      ESTABLISHED     4980
+ [Sistema]
+  TCP    172.17.0.44:24195      157.55.253.50:80       ESTABLISHED     4980
+ [Sistema]
+  TCP    172.17.0.44:24196      157.55.253.50:80       ESTABLISHED     4980
+ [Sistema]
+  TCP    172.17.0.44:24197      168.63.124.173:80      ESTABLISHED     4980
+ [Sistema]
+  TCP    172.17.0.44:24198      168.63.124.173:80      ESTABLISHED     4980
+ [Sistema]
+  TCP    172.17.0.44:24200      178.60.128.139:80      ESTABLISHED     4980
+ [Sistema]
+  TCP    172.17.0.44:24201      178.60.128.139:80      ESTABLISHED     4980
+ [Sistema]
+  TCP    172.17.0.44:24234      178.60.128.26:443      ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24249      173.194.67.95:80       ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24250      23.220.3.172:80        TIME_WAIT       0
+  TCP    172.17.0.44:24251      23.220.3.172:80        TIME_WAIT       0
+  TCP    172.17.0.44:24252      23.220.3.172:80        TIME_WAIT       0
+  TCP    172.17.0.44:24254      23.220.3.172:80        TIME_WAIT       0
+  TCP    172.17.0.44:24255      23.220.3.172:80        TIME_WAIT       0
+  TCP    172.17.0.44:24258      50.97.35.152:80        TIME_WAIT       0
+  TCP    172.17.0.44:24259      50.97.35.152:80        TIME_WAIT       0
+  TCP    172.17.0.44:24289      173.194.45.27:443      ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24305      199.38.165.155:80      TIME_WAIT       0
+  TCP    172.17.0.44:24306      173.194.41.205:80      ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24313      178.60.128.152:80      ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24314      178.60.128.37:443      ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24349      173.194.45.10:443      ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24355      173.194.41.203:443     ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24380      173.194.41.218:80      ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24404      74.125.195.95:80       ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24471      173.194.41.218:80      ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24482      192.168.0.55:445       ESTABLISHED     4
+ No se puede obtener informaci¢n de propiedad
+  TCP    172.17.0.44:24489      23.220.22.238:443      ESTABLISHED     7216
+ [wwahost.exe]
+  TCP    172.17.0.44:24491      157.55.236.80:443      ESTABLISHED     4980
+ [Sistema]
+  TCP    172.17.0.44:24492      108.162.232.196:80     CLOSE_WAIT      7216
+ [wwahost.exe]
+  TCP    172.17.0.44:24501      173.194.41.218:443     ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24510      23.220.15.139:80       ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24518      178.60.128.147:80      ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24533      173.194.45.25:443      ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24534      23.219.167.231:80      ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24536      23.219.167.231:80      ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24555      66.155.11.238:80       CLOSE_WAIT      7992
+ [chrome.exe]
+  TCP    172.17.0.44:24558      31.13.80.65:443        ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24564      68.232.35.139:443      ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24575      173.194.45.26:80       ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24578      54.230.61.92:80        ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24610      178.236.6.19:80        ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24615      178.236.7.137:80       ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24619      173.194.41.218:80      ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24624      66.155.11.238:443      ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24630      23.220.23.227:80       ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24639      31.13.80.81:443        ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24640      68.232.35.139:443      ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24642      23.220.23.227:80       ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24643      23.220.23.227:80       ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24644      23.220.23.227:80       ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24645      178.60.128.16:443      ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24646      173.194.66.84:443      ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24648      23.220.23.227:80       ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24654      178.60.128.152:80      ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24655      178.60.128.152:80      ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24656      178.60.128.145:80      ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24657      178.60.128.145:80      ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24658      178.60.128.145:80      ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24659      178.60.128.145:80      ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24660      178.60.128.145:80      ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24661      178.60.128.145:80      ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24662      199.83.131.100:80      ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24663      178.60.128.153:80      ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24664      178.60.128.153:80      ESTABLISHED     7992
+ [chrome.exe]
+  TCP    172.17.0.44:24665      178.60.128.139:80      ESTABLISHED     7992
+ [chrome.exe]
+  TCP    192.168.3.1:53         0.0.0.0:0              LISTENING       1832
+ [DualServer.exe]
+  TCP    192.168.3.1:139        0.0.0.0:0              LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    [::]:80                [::]:0                 LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    [::]:88                [::]:0                 LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    [::]:90                [::]:0                 LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    [::]:135               [::]:0                 LISTENING       820
+  RpcSs
+ [Sistema]
+  TCP    [::]:443               [::]:0                 LISTENING       7216
+ [wwahost.exe]
+  TCP    [::]:445               [::]:0                 LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    [::]:554               [::]:0                 LISTENING       6732
+  WMPNetworkSvc
+ [Sistema]
+  TCP    [::]:888               [::]:0                 LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    [::]:1025              [::]:0                 LISTENING       552
+ [Sistema]
+  TCP    [::]:1026              [::]:0                 LISTENING       884
+  EventLog
+ [Sistema]
+  TCP    [::]:1027              [::]:0                 LISTENING       932
+  Schedule
+ [Sistema]
+  TCP    [::]:1028              [::]:0                 LISTENING       680
+  Netlogon
+ [Sistema]
+  TCP    [::]:1051              [::]:0                 LISTENING       680
+ [Sistema]
+  TCP    [::]:1055              [::]:0                 LISTENING       1968
+  MSMQ
+ [Sistema]
+  TCP    [::]:1068              [::]:0                 LISTENING       2200
+ [ORACLE.EXE]
+  TCP    [::]:1071              [::]:0                 LISTENING       672
+ [Sistema]
+  TCP    [::]:1072              [::]:0                 LISTENING       4208
+  PolicyAgent
+ [Sistema]
+  TCP    [::]:1500              [::]:0                 LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    [::]:1521              [::]:0                 LISTENING       2232
+ [tnslsnr.exe]
+  TCP    [::]:1801              [::]:0                 LISTENING       1968
+  MSMQ
+ [Sistema]
+  TCP    [::]:2039              [::]:0                 LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    [::]:2103              [::]:0                 LISTENING       1968
+  MSMQ
+ [Sistema]
+  TCP    [::]:2105              [::]:0                 LISTENING       1968
+  MSMQ
+ [Sistema]
+  TCP    [::]:2107              [::]:0                 LISTENING       1968
+  MSMQ
+ [Sistema]
+  TCP    [::]:2179              [::]:0                 LISTENING       2800
+  vmms
+ [Sistema]
+  TCP    [::]:2869              [::]:0                 LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    [::]:3389              [::]:0                 LISTENING       1152
+  CryptSvc
+ [Sistema]
+  TCP    [::]:5357              [::]:0                 LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    [::]:6000              [::]:0                 LISTENING       2568
+ [VisualSVNServer.exe]
+  TCP    [::]:6791              [::]:0                 LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    [::]:7000              [::]:0                 LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    [::]:8000              [::]:0                 LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    [::]:8050              [::]:0                 LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    [::]:8080              [::]:0                 LISTENING       2232
+ [tnslsnr.exe]
+  TCP    [::]:9000              [::]:0                 LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    [::]:9876              [::]:0                 LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    [::]:10243             [::]:0                 LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    [::]:15195             [::]:0                 LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    [::]:19927             [::]:0                 LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    [::]:34363             [::]:0                 LISTENING       7216
+ [wwahost.exe]
+  TCP    [::]:44238             [::]:0                 LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    [::]:55202             [::]:0                 LISTENING       716
+  MSSQL$SQLEXPRESS
+ [Sistema]
+  TCP    [::]:58767             [::]:0                 LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    [::]:58812             [::]:0                 LISTENING       4
+ No se puede obtener informaci¢n de propiedad
+  TCP    [::1]:1054             [::]:0                 LISTENING       1940
+ [jhi_service.exe]
+  TCP    [::1]:2039             [::1]:24164            ESTABLISHED     4
+ No se puede obtener informaci¢n de propiedad
+  TCP    [::1]:24164            [::1]:2039             ESTABLISHED     7992
+ [chrome.exe]
+  TCP    [fe80::258a:2907:42ab:4531%17]:1067  [fe80::258a:2907:42ab:4531%17]:1521  ESTABLISHED     2200
+ [ORACLE.EXE]
+  TCP    [fe80::258a:2907:42ab:4531%17]:1521  [fe80::258a:2907:42ab:4531%17]:1067  ESTABLISHED     2232
+ [tnslsnr.exe]
+  UDP    0.0.0.0:53             *:*                                    932
+  SharedAccess
+ [Sistema]
+  UDP    0.0.0.0:68             *:*                                    884
+  Dhcp
+ [Sistema]
+  UDP    0.0.0.0:123            *:*                                    984
+  W32Time
+ [Sistema]
+  UDP    0.0.0.0:443            *:*                                    7216
+ [wwahost.exe]
+  UDP    0.0.0.0:500            *:*                                    932
+  IKEEXT
+ [Sistema]
+  UDP    0.0.0.0:3389           *:*                                    1152
+  CryptSvc
+ [Sistema]
+  UDP    0.0.0.0:3702           *:*                                    1432
+  FDResPub
+ [Sistema]
+  UDP    0.0.0.0:3702           *:*                                    1432
+  FDResPub
+ [Sistema]
+  UDP    0.0.0.0:4500           *:*                                    932
+  IKEEXT
+ [Sistema]
+  UDP    0.0.0.0:5004           *:*                                    6732
+  WMPNetworkSvc
+ [Sistema]
+  UDP    0.0.0.0:5005           *:*                                    6732
+  WMPNetworkSvc
+ [Sistema]
+  UDP    0.0.0.0:5355           *:*                                    1152
+  Dnscache
+ [Sistema]
+  UDP    0.0.0.0:8976           *:*                                    5520
+ [devenv.exe]
+  UDP    0.0.0.0:34363          *:*                                    7216
+ [wwahost.exe]
+  UDP    0.0.0.0:50880          *:*                                    1388
+  Spooler
+ [Sistema]
+  UDP    0.0.0.0:54143          *:*                                    932
+  SharedAccess
+ [Sistema]
+  UDP    0.0.0.0:60592          *:*                                    1432
+  FDResPub
+ [Sistema]
+  UDP    0.0.0.0:61706          *:*                                    932
+  SharedAccess
+ [Sistema]
+  UDP    0.0.0.0:61708          *:*                                    932
+  SharedAccess
+ [Sistema]
+  UDP    127.0.0.1:1900         *:*                                    1432
+  SSDPSRV
+ [Sistema]
+  UDP    127.0.0.1:49506        *:*                                    3668
+ [TapinRadio.exe]
+  UDP    127.0.0.1:49850        *:*                                    4572
+ [Sistema]
+  UDP    127.0.0.1:50753        *:*                                    412
+ [pidgin.exe]
+  UDP    127.0.0.1:50754        *:*                                    412
+ [pidgin.exe]
+  UDP    127.0.0.1:53293        *:*                                    1152
+  LanmanWorkstation
+ [Sistema]
+  UDP    127.0.0.1:54144        *:*                                    932
+  SharedAccess
+ [Sistema]
+  UDP    127.0.0.1:54980        *:*                                    7912
+ [WebMatrix.exe]
+  UDP    127.0.0.1:57071        *:*                                    680
+  Netlogon
+ [Sistema]
+  UDP    127.0.0.1:57361        *:*                                    5876
+ [Sistema]
+  UDP    127.0.0.1:57918        *:*                                    7216
+ [wwahost.exe]
+  UDP    127.0.0.1:59198        *:*                                    5876
+ [Sistema]
+  UDP    127.0.0.1:60553        *:*                                    1432
+  SSDPSRV
+ [Sistema]
+  UDP    127.0.0.1:61324        *:*                                    4980
+ [Sistema]
+  UDP    127.0.0.1:61456        *:*                                    412
+ [pidgin.exe]
+  UDP    127.0.0.1:61457        *:*                                    412
+ [pidgin.exe]
+  UDP    127.0.0.1:64059        *:*                                    932
+  SENS
+ [Sistema]
+  UDP    169.254.69.49:137      *:*                                    4
+ No se puede obtener informaci¢n de propiedad
+  UDP    169.254.69.49:138      *:*                                    4
+ No se puede obtener informaci¢n de propiedad
+  UDP    169.254.69.49:1900     *:*                                    1432
+  SSDPSRV
+ [Sistema]
+  UDP    169.254.69.49:60552    *:*                                    1432
+  SSDPSRV
+ [Sistema]
+  UDP    172.17.0.44:137        *:*                                    4
+ No se puede obtener informaci¢n de propiedad
+  UDP    172.17.0.44:138        *:*                                    4
+ No se puede obtener informaci¢n de propiedad
+  UDP    172.17.0.44:1900       *:*                                    1432
+  SSDPSRV
+ [Sistema]
+  UDP    172.17.0.44:60551      *:*                                    1432
+  SSDPSRV
+ [Sistema]
+  UDP    192.168.3.1:53         *:*                                    1832
+ [DualServer.exe]
+  UDP    192.168.3.1:67         *:*                                    1832
+ [DualServer.exe]
+  UDP    192.168.3.1:137        *:*                                    4
+ No se puede obtener informaci¢n de propiedad
+  UDP    192.168.3.1:138        *:*                                    4
+ No se puede obtener informaci¢n de propiedad
+  UDP    192.168.3.1:1900       *:*                                    1432
+  SSDPSRV
+ [Sistema]
+  UDP    192.168.3.1:60550      *:*                                    1432
+  SSDPSRV
+ [Sistema]
+  UDP    [::]:123               *:*                                    984
+  W32Time
+ [Sistema]
+  UDP    [::]:443               *:*                                    7216
+ [wwahost.exe]
+  UDP    [::]:500               *:*                                    932
+  IKEEXT
+ [Sistema]
+  UDP    [::]:547               *:*                                    932
+  SharedAccess
+ [Sistema]
+  UDP    [::]:3389              *:*                                    1152
+  CryptSvc
+ [Sistema]
+  UDP    [::]:3702              *:*                                    1432
+  FDResPub
+ [Sistema]
+  UDP    [::]:3702              *:*                                    1432
+  FDResPub
+ [Sistema]
+  UDP    [::]:4500              *:*                                    932
+  IKEEXT
+ [Sistema]
+  UDP    [::]:5004              *:*                                    6732
+  WMPNetworkSvc
+ [Sistema]
+  UDP    [::]:5005              *:*                                    6732
+  WMPNetworkSvc
+ [Sistema]
+  UDP    [::]:5355              *:*                                    1152
+  Dnscache
+ [Sistema]
+  UDP    [::]:34363             *:*                                    7216
+ [wwahost.exe]
+  UDP    [::]:60593             *:*                                    1432
+  FDResPub
+ [Sistema]
+  UDP    [::]:61707             *:*                                    932
+  SharedAccess
+ [Sistema]
+  UDP    [::]:61709             *:*                                    932
+  SharedAccess
+ [Sistema]
+  UDP    [::1]:1900             *:*                                    1432
+  SSDPSRV
+ [Sistema]
+  UDP    [::1]:60549            *:*                                    1432
+  SSDPSRV
+ [Sistema]
+  UDP    [fe80::157d:be46:e9c2:55b2%27]:1900  *:*                                    1432
+  SSDPSRV
+ [Sistema]
+  UDP    [fe80::157d:be46:e9c2:55b2%27]:60546  *:*                                    1432
+  SSDPSRV
+ [Sistema]
+  UDP    [fe80::258a:2907:42ab:4531%17]:1900  *:*                                    1432
+  SSDPSRV
+ [Sistema]
+  UDP    [fe80::258a:2907:42ab:4531%17]:60548  *:*                                    1432
+  SSDPSRV
+ [Sistema]
+  UDP    [fe80::911b:30a9:dc88:dc1%20]:53  *:*                                    932
+  SharedAccess
+ [Sistema]
+  UDP    [fe80::911b:30a9:dc88:dc1%20]:1900  *:*                                    1432
+  SSDPSRV
+ [Sistema]
+  UDP    [fe80::911b:30a9:dc88:dc1%20]:60547  *:*                                    1432
+  SSDPSRV
+ [Sistema]
