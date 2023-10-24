@@ -17,7 +17,7 @@ services:
     image: datalust/seq
     container_name: seq
     environment:
-      ACCEPT_EULA=Y
+      - ACCEPT_EULA=Y
       #SEQ_FIRSTRUN_ADMINPASSWORDHASH="$PH"
     ports:
       - "6080:80"
