@@ -7,11 +7,11 @@ services:
   mail:  
     #info: https://github.com/rnwood/smtp4dev/blob/master/docker-compose.yml 
     image: rnwood/smtp4dev:v3
-    container_name: mail-mock-server
+    container_name: mail-mock-server-seq
     ports:
       - "6080:80"
-      - "25:25"
-      - "143:143"
+      - "2525:25"
+      - "14344:143"
 
   seq:
     image: datalust/seq
@@ -20,6 +20,4 @@ services:
       - ACCEPT_EULA=Y
       #SEQ_FIRSTRUN_ADMINPASSWORDHASH="$PH"
     ports:
-      - "6080:80"
-      - "25:25"
-      - "143:143"   
+      - "6081:80"      
