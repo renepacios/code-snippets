@@ -20,6 +20,4 @@ services:
       - ACCEPT_EULA=Y
       #SEQ_FIRSTRUN_ADMINPASSWORDHASH="$PH"
     ports:
-      - "6080:80"
-      - "25:25"
-      - "143:143"   
+      - "5341:80"      
