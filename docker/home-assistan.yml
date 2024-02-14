@@ -6,8 +6,28 @@ services:
     environment:
       - TZ=Europe/Madrid
     volumes:
-      - /home/pi/volumes/homeassistant:/config
-      - /etc/localtime:/etc/localtime:ro
+      - C:\Temp\__docker_volumes\HomeAsistant\config:/config
+      - C:\Temp\__docker_volumes\HomeAsistant\localtime:/etc/localtime:ro
+    ports:
+      - 8123:8123 #optional
     restart: unless-stopped
     privileged: true
-    network_mode: host
+   # network_mode: host
+
+
+  #   services:
+  # homeassistant:
+  #   image: lscr.io/linuxserver/homeassistant:latest
+  #   container_name: homeassistant
+  #   network_mode: host
+  #   environment:
+  #     - PUID=1000
+  #     - PGID=1000
+  #     - TZ=Etc/UTC
+  #   volumes:
+  #     - /path/to/data:/config
+  #   ports:
+  #     - 8123:8123 #optional
+  #   devices:
+  #     - /path/to/device:/path/to/device #optional
+  #   restart: unless-stopped
