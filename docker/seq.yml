@@ -9,7 +9,7 @@ services:
     image: rnwood/smtp4dev:v3
     container_name: mail-mock-server-seq
     ports:
-      - "6080:80"
+      - "7080:80"
       - "2525:25"
       - "14344:143"
 
@@ -18,7 +18,16 @@ services:
     container_name: seq
     environment:
       - ACCEPT_EULA=Y
-      #SEQ_FIRSTRUN_ADMINPASSWORDHASH="$PH"
+      - SEQ_FIRSTRUN_REQUIREAUTHENTICATIONFORHTTPINGESTION=true
+      - SEQ_FIRSTRUN_ADMINUSERNAME=admin
+    # --> qwerty$123
+      - SEQ_FIRSTRUN_ADMINPASSWORDHASH=QEvk/TcGPREBEvFd0i8mwAA8EgJDdaMuxvBrZzNgKMDg+sWSOvvXfxfFdmCKB0wo4aAjiloMZ3Oh6xrPATvZPUSR3bxO0hPl5q1GzMqz1YCl
+      - WEBSITES_ENABLE_APP_SERVICE_STORAGE=false
+      - WEBSITES_PORT=80:5341
+      - PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+      - DATA_DIR=/data
+      - TZ=Etc/UTC     
     ports:
-      - "5341:80"     
+      - "17720:80"
+      - 5341:5341     
 
