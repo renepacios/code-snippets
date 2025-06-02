@@ -1,0 +1,27 @@
+# Use root/example as user/password credentials
+# Use root/example as user/password credentials
+version: '3.1'
+
+services:
+
+  mariadb:
+    image: mariadb:10.6.15
+    restart: always
+    #volumes:
+      #- db_data:/var/lib/mysql
+    ports:
+      - 3306:3306
+    environment:
+      MARIADB_USER: admin
+      MARIADB_PASSWORD: passw0rd
+      MARIADB_DATABASE: admindb 
+      MARIADB_ROOT_PASSWORD: admin
+    networks:
+      - db-network
+      - external: true
+
+  adminer:
+    image: adminer:latest
+    restart: always
+    ports:
+      - 8080:8080
